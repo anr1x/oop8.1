@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\oop8\oop8\bin\Debug\net6.0\oop8.exe
+C:\Users\PC\source\repos\oop8\oop8\bin\Debug\net6.0\oop8.deps.json
+C:\Users\PC\source\repos\oop8\oop8\bin\Debug\net6.0\oop8.runtimeconfig.json
+C:\Users\PC\source\repos\oop8\oop8\bin\Debug\net6.0\oop8.dll
+C:\Users\PC\source\repos\oop8\oop8\bin\Debug\net6.0\oop8.pdb
+C:\Users\PC\source\repos\oop8\oop8\obj\Debug\net6.0\oop8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\oop8\oop8\obj\Debug\net6.0\oop8.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\oop8\oop8\obj\Debug\net6.0\oop8.AssemblyInfo.cs
+C:\Users\PC\source\repos\oop8\oop8\obj\Debug\net6.0\oop8.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\oop8\oop8\obj\Debug\net6.0\oop8.dll
+C:\Users\PC\source\repos\oop8\oop8\obj\Debug\net6.0\refint\oop8.dll
+C:\Users\PC\source\repos\oop8\oop8\obj\Debug\net6.0\oop8.pdb
+C:\Users\PC\source\repos\oop8\oop8\obj\Debug\net6.0\oop8.genruntimeconfig.cache
+C:\Users\PC\source\repos\oop8\oop8\obj\Debug\net6.0\ref\oop8.dll
